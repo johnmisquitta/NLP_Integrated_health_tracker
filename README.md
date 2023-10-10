@@ -10,9 +10,11 @@ This README provides visual representations of the project using screenshots.
 
 ## S1
 ![Nutrition1 Screenshot](screenshot/ss1.png)
-## S2
+## Query
+![Nutrition1 Screenshot](screenshot/ss7.png)
+## Output Data
 ![Nutrition1 Screenshot](screenshot/ss2.png)
-## S3
+## Saved in Sheets
 ![S3 Screenshot](screenshot/s3.png)
 
 
@@ -26,6 +28,8 @@ Lunch: Rice Dal Vegetable 1/2 cup curd
 Dinner: Chicken with 2 Chapatis
 Snacks: 1 apple and 1 ounce of almonds
 ## Query
+![Nutrition1 Screenshot](screenshot/ss6.png)
+## Output Data
 ![Nutrition2 Screenshot](screenshot/ss5.png)
 ## S4
 ![Nutrition1 Screenshot](screenshot/nutrition1.png)
