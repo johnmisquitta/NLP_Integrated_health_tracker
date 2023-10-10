@@ -15,8 +15,7 @@ This README provides visual representations of the project using screenshots.
 ## S3
 ![S3 Screenshot](screenshot/s3.png)
 
-## S4
-![Nutrition1 Screenshot](screenshot/nutrition1.png)
+
 ## S5
 ![Nutrition1 Screenshot](screenshot/ss3.png)
 
@@ -28,6 +27,8 @@ Dinner: Chicken with 2 Chapatis
 Snacks: 1 apple and 1 ounce of almonds
 ## S5
 ![Nutrition2 Screenshot](screenshot/nutrition2.png)
+## S4
+![Nutrition1 Screenshot](screenshot/nutrition1.png)
 
 
 
