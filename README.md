@@ -17,16 +17,21 @@ This README provides visual representations of the project using screenshots.
 
 ## S4
 ![Nutrition1 Screenshot](screenshot/nutrition1.png)
+## S5
+![Nutrition1 Screenshot](screenshot/ss3.png)
 
 
+**Query**
+Breakfast: 1 cup oatmeal with 1 banana 2 eggs
+Lunch: Rice Dal Vegetable 1/2 cup curd
+Dinner: Chicken with 2 Chapatis
+Snacks: 1 apple and 1 ounce of almonds
 ## S5
 ![Nutrition2 Screenshot](screenshot/nutrition2.png)
 
 
 
-
-## S6
-![S4 Screenshot](screenshot/s4.png)
+)
 
 
 
