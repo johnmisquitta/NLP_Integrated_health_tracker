@@ -26,7 +26,7 @@ Lunch: Rice Dal Vegetable 1/2 cup curd
 Dinner: Chicken with 2 Chapatis
 Snacks: 1 apple and 1 ounce of almonds
 ## S5
-![Nutrition2 Screenshot](screenshot/nutrition2.png)
+![Nutrition2 Screenshot](screenshot/ss5.png)
 ## S4
 ![Nutrition1 Screenshot](screenshot/nutrition1.png)
 
